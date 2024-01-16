@@ -1,0 +1,14 @@
+/* Styles génériques pour tous les boutons */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.bouton {
+    padding: 10px;
+    margin: 5px;
+    font-size: 16px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
